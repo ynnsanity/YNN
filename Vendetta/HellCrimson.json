@@ -7,5 +7,127 @@
             "id": "450005247734317056"
         }
     ],
-    "css": "https://raw.githubusercontent.com/Suiciida/VanguardThemes/main/HellCrimson/HellCrimson.css"
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#FF4C4C"
+        ],
+        "HEADER_SECONDARY": [
+            "#D93636"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#993333"
+        ],
+        "TEXT_LINK": [
+            "#FF6B6B"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#FF5A5A"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#FF7878"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#B34747"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#1E1E1E"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2A2A2A"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2A2A2A"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#1E1E1E"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#991F1F"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1E1E1E"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#1E1E1E"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#1E1E1E"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#1E1E1E"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#2E2E2E"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#2E2E2E"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#CC2B2B"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#B02525"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#1E1E1E"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#292929"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#993333"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#C23636"
+        ],
+        "TEXT_DANGER": [
+            "#FF4747"
+        ],
+        "KEYBOARD": [
+            "#282828"
+        ],
+        "CHANNEL_ICON": [
+            "#FF5A5A"
+        ],
+        "CHAT_BACKGROUND": [
+            "#1E1E1E"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#3A3A3A"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "#5E5E5E"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#FF6F6F",
+        "PRIMARY_200": "#993333",
+        "PRIMARY_300": "#FF5454",
+        "PRIMARY_360": "#FF6F6F",
+        "PRIMARY_400": "#FF6F6F",
+        "PRIMARY_500": "#993333",
+        "PRIMARY_600": "#1E1E1E",
+        "PRIMARY_630": "#2A2A2A",
+        "PRIMARY_660": "#2A2A2A",
+        "PRIMARY_700": "#1E1E1E",
+        "PRIMARY_800": "#1E1E1E",
+
+        "BRAND_260": "#D93636",
+        "BRAND_360": "#FF6F6F",
+        "BRAND_500": "#FF5C5C",
+        "BRAND_560": "#FF6F6F",
+
+        "RED_400": "#FF4C4C",
+        "YELLOW_300": "#FF6F6F",
+        "GREEN_360": "#FF6F6F",
+        "WHITE_500": "#FFFFFF"
+    },
+    "spec": 2,
+    "plus":{
+        "version":"0",
+        "iconpack":"rosiecord-plumpy"
+    }
 }
